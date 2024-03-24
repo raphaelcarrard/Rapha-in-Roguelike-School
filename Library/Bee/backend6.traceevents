@@ -1,0 +1,787 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1711255832531723, "dur":36709, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711255832568439, "dur":299, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711255832568827, "dur":397, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711255832569414, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/n35fzyrsq8vj.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832569643, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sob4x9yjkefg.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832570415, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2opsihrdk42p.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832570691, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gug462pnwn62.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832570918, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h19ak7m9sgiv.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832571078, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v7rwf44vc9qv.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832571248, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/arxysj7l2bap.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832571349, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/29rforucfeqq.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832571898, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/60vqf0m411sh.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832571995, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/72vyfpk0pv0o.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832572838, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cowab7cpfqc7.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832573430, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ih1ypy2sfbka.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832573807, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2hynjmff5h56.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832574835, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/x4cgtr4s8c3b.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832574920, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/t6urg3aompu8.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832575206, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8p8ond9r7gxo.o" }}
+,{ "pid":12345, "tid":0, "ts":1711255832575315, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/6070537824006410562.rsp" }}
+,{ "pid":12345, "tid":0, "ts":1711255832575486, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Merging JavaScript Code Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js" }}
+,{ "pid":12345, "tid":0, "ts":1711255832576244, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/MemoryProfiler.png" }}
+,{ "pid":12345, "tid":0, "ts":1711255832569251, "dur":7287, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711255832576542, "dur":1170188, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711255833746732, "dur":277, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711255833747010, "dur":119, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711255833747320, "dur":3302, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1711255832569804, "dur":6756, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832576565, "dur":6149, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832582819, "dur":966, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker E:/My Games/Rapha in Roguelike School/Library/Bee/artifacts/unitylinker_ber2.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1711255832583786, "dur":322, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832584686, "dur":423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"IL2CPP_CodeGen E:/My Games/Rapha in Roguelike School/Library/Bee/artifacts/il2cpp_conv_rp4m.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1711255832585109, "dur":1180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832587656, "dur":758, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__49.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832588423, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832587644, "dur":862, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/29rforucfeqq.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832588554, "dur":645, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__45.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832589208, "dur":89, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832588538, "dur":760, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/arxysj7l2bap.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832589344, "dur":350, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib_CodeGen.c" }}
+,{ "pid":12345, "tid":1, "ts":1711255832589333, "dur":400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/el9s3wlpyyrt.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832589767, "dur":916, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__29.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832590691, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832589756, "dur":1017, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o5rd7gffa4r0.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832590845, "dur":668, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832591525, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832590827, "dur":774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ksol87aanx5x.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832591638, "dur":934, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__37.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832592581, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832591626, "dur":1035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9j4rffa05iyw.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832592753, "dur":53, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppMetadataUsage.c" }}
+,{ "pid":12345, "tid":1, "ts":1711255832592734, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vx8nexeorv1r.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832592950, "dur":534, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__14.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832593492, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832592931, "dur":642, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ocdxi6l9quvo.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832593619, "dur":507, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__53.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832594134, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832593600, "dur":616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v59c1h26xqgl.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832594217, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832594298, "dur":58, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.Physics2DModule_CodeGen.c" }}
+,{ "pid":12345, "tid":1, "ts":1711255832594281, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vegadjfkq8eh.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832594426, "dur":707, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832595140, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832594414, "dur":806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dpe82m03wse3.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832595259, "dur":586, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityWebRequestModule.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832595854, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832595245, "dur":675, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/64swanj9tkz3.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832596056, "dur":370, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__35.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832596436, "dur":110, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832596034, "dur":512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3oxfkwh5z6au.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832596597, "dur":891, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__1.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832597496, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832596584, "dur":993, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jambjnb1z3xv.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832597619, "dur":778, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832598406, "dur":103, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832597604, "dur":908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7rhg38i0i66u.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832598646, "dur":550, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SpriteShapeModule.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832599206, "dur":74, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832598621, "dur":659, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qvovxjm4uhp1.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832599371, "dur":701, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__52.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832600080, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832599348, "dur":807, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/aq6ol8n9u241.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832600267, "dur":652, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__7.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832600929, "dur":89, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832600244, "dur":774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/at9wj046iyq4.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832601054, "dur":297, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppMetadataRegistration.c" }}
+,{ "pid":12345, "tid":1, "ts":1711255832601041, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h9kg5gs4c2ut.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832601456, "dur":1512, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__7.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1711255832602977, "dur":176, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832601436, "dur":1718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/f6sih2la658j.o" }}
+,{ "pid":12345, "tid":1, "ts":1711255832603251, "dur":192818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711255832796077, "dur":71, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"PreprocessJS C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.loader.js" }}
+,{ "pid":12345, "tid":1, "ts":1711255832796197, "dur":950467, "ph":"X", "name": "PreprocessJS",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.loader.js" }}
+,{ "pid":12345, "tid":2, "ts":1711255832569875, "dur":6713, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832576592, "dur":580, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832577173, "dur":288, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832577461, "dur":219, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832577681, "dur":427, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832578108, "dur":4614, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832582818, "dur":1878, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832584697, "dur":2951, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832587683, "dur":84, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Mono.Security_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1711255832587649, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wtpwwgxlwd50.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832587824, "dur":1488, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputForUIModule.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832589326, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832587812, "dur":1600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7dqt96jyxq79.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832589508, "dur":54, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1711255832589490, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8p8ond9r7gxo.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832589642, "dur":539, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__64.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832590191, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832589630, "dur":642, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3fucuk8l4xwv.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832590313, "dur":720, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Configuration.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832591043, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832590300, "dur":841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0zcxjr4zypbc.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832591227, "dur":740, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__1.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832591977, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832591206, "dur":858, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/kpvb9y2jagq5.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832592123, "dur":719, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__58.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832592854, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832592102, "dur":837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/owoah55vevd2.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832593037, "dur":1013, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__43.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832594060, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832593017, "dur":1122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o39tsucqvlhq.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832594211, "dur":787, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__7.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832595009, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832594189, "dur":919, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ws3pgoui10bo.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832595168, "dur":156, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppTypeDefinitions.c" }}
+,{ "pid":12345, "tid":2, "ts":1711255832595154, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/br0leu6qc6mb.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832595400, "dur":623, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__17.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832596034, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832595384, "dur":735, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xv305a1d359p.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832596159, "dur":113, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\__Generated_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1711255832596146, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/oggnvypiv612.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832596387, "dur":607, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__21.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832597004, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832596366, "dur":730, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/obmnbv2wjlq1.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832597240, "dur":336, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateFieldValues.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832597586, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832597220, "dur":458, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/60vqf0m411sh.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832597716, "dur":923, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule__1.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832598651, "dur":107, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832597704, "dur":1054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w9bnd9nam32w.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832598873, "dur":1065, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__3.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832599951, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832598856, "dur":1174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lakap7d8w3vz.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832600064, "dur":253, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Xml_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1711255832600053, "dur":291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hdr4q6si300f.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832600386, "dur":735, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__10.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832601130, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832600371, "dur":850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/b2eyjfwp5dhh.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832601255, "dur":361, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppRgctxTable.c" }}
+,{ "pid":12345, "tid":2, "ts":1711255832601243, "dur":418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/l5qni4gnxrsq.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832601718, "dur":765, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__15.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832602492, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832601705, "dur":867, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4stvz2zemiey.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832602623, "dur":447, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__61.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1711255832603080, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832602597, "dur":569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wc3jemzsujsd.o" }}
+,{ "pid":12345, "tid":2, "ts":1711255832603252, "dur":192814, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711255832796071, "dur":262, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/fullscreen-button.png" }}
+,{ "pid":12345, "tid":2, "ts":1711255832797015, "dur":3471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/fullscreen-button.png" }}
+,{ "pid":12345, "tid":2, "ts":1711255832800501, "dur":946259, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832570147, "dur":6499, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832576651, "dur":637, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832577289, "dur":248, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832577538, "dur":492, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832578030, "dur":4729, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832582851, "dur":1850, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832584702, "dur":2948, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832587720, "dur":1102, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__13.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832588830, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832587651, "dur":1259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5c9ja3dnq3to.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832588985, "dur":487, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832589481, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832588967, "dur":600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rcegb2vmdj7s.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832589820, "dur":892, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__5.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832590721, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832589799, "dur":1015, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ti5dhdrezfgl.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832590860, "dur":719, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreFontEngineModule.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832591587, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832590845, "dur":826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/huuztqfuvztr.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832591865, "dur":565, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__57.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832592439, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832591737, "dur":778, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3glm1vryb71i.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832592586, "dur":695, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__2.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832593290, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832592573, "dur":804, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mfel1eilp1b3.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832593414, "dur":594, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__23.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832594017, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832593403, "dur":687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/az9rbkxsqbj0.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832594300, "dur":202, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__8.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832594511, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832594281, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v8clz9i4lm2n.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832594676, "dur":660, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__36.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832595346, "dur":109, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832594658, "dur":797, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o403z5v22umd.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832595495, "dur":572, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__20.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832596075, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832595482, "dur":687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i4ehs2l67igc.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832596248, "dur":233, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1711255832596228, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bxudo08eueia.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832596553, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/c2wxjj9l0eod.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832596680, "dur":1450, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__51.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832598138, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832596668, "dur":1536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pa305y9bseti.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832598363, "dur":65, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AudioModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1711255832598344, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/04p9c72gpr0b.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832598505, "dur":62, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SpriteShapeModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1711255832598492, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/enfj7dndbgvl.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832598711, "dur":814, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__3.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832599535, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832598695, "dur":937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7uh9gowispnm.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832599679, "dur":159, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputForUIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1711255832599655, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fda0kuv588ca.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832599910, "dur":1244, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__10.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832601163, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832599896, "dur":1352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xv7vwfqlo9hz.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832601326, "dur":558, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__17.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832601895, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832601313, "dur":658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qgh0zruat86w.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832602019, "dur":738, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule__2.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832602765, "dur":103, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832601997, "dur":872, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hpfbti27oreg.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832602907, "dur":495, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__19.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1711255832603411, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832602894, "dur":601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h3ruytpy7ys5.o" }}
+,{ "pid":12345, "tid":3, "ts":1711255832603519, "dur":192568, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711255832796094, "dur":185, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"PreprocessJS C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/style.css" }}
+,{ "pid":12345, "tid":3, "ts":1711255832797052, "dur":88208, "ph":"X", "name": "PreprocessJS",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/style.css" }}
+,{ "pid":12345, "tid":3, "ts":1711255832885276, "dur":861458, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832569805, "dur":6764, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832576572, "dur":679, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832577252, "dur":235, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832577487, "dur":277, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832577764, "dur":399, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832578164, "dur":4565, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832582830, "dur":1860, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832584691, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ICallRegistrationGenerator E:/My Games/Rapha in Roguelike School/Library/Bee/artifacts/WebGL/il2cppOutput/UnityICallRegistration.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832584954, "dur":2711, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832587715, "dur":1419, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__34.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832589143, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832587666, "dur":1567, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2gdzzg16v4te.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832589275, "dur":420, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__55.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832589718, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832589258, "dur":546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/htxh16w24g9j.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832589882, "dur":504, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__28.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832590396, "dur":104, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832589863, "dur":638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nx7wm1yg61al.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832590629, "dur":366, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextRenderingModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1711255832590608, "dur":421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9kcy954jvveg.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832591072, "dur":705, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__13.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832591786, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832591058, "dur":822, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4yyocezeynmh.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832591916, "dur":416, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__4.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832592343, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832591905, "dur":520, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ppcx0plprm75.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832592506, "dur":581, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__16.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832593095, "dur":108, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832592492, "dur":712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/b2phsc8771qz.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832593267, "dur":84, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PropertiesModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1711255832593246, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r60fvgce1q8z.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832593439, "dur":889, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__3.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832594336, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832593422, "dur":1005, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pc8a1hpvf7ea.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832594472, "dur":127, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Configuration_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1711255832594455, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sa1xm3ouwfgi.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832594671, "dur":152, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SharedInternalsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1711255832594650, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3avkrpe99k5a.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832594986, "dur":971, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__9.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832595967, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832594966, "dur":1077, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/igrugdpe8q4m.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832596105, "dur":545, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__8.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832596657, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832596090, "dur":653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/e1y74uhxd8sg.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832596844, "dur":504, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Mono.Security.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832597356, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832596825, "dur":627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0fs3jxo0kiog.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832597521, "dur":928, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__48.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832598458, "dur":95, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832597503, "dur":1051, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/huor8hgfcqe7.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832598598, "dur":671, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__16.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832599277, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832598578, "dur":775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/u7j9dpe4w6ir.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832599404, "dur":966, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__9.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832600379, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832599388, "dur":1082, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/f9iopayvhaaw.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832600518, "dur":340, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__54.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832600868, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832600502, "dur":464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wdutlxi51sx0.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832601049, "dur":1536, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__11.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832602593, "dur":108, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832601029, "dur":1672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ibbkcp4irxti.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832602815, "dur":649, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__3.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1711255832603471, "dur":67, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832602791, "dur":747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2hynjmff5h56.o" }}
+,{ "pid":12345, "tid":4, "ts":1711255832603558, "dur":192573, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711255832796138, "dur":81, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"PreprocessJS C:/Users/rapha/OneDrive/rea de Trabalho/index/index.html" }}
+,{ "pid":12345, "tid":4, "ts":1711255832796332, "dur":140440, "ph":"X", "name": "PreprocessJS",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/index.html" }}
+,{ "pid":12345, "tid":4, "ts":1711255832936801, "dur":809949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711255832570249, "dur":6413, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711255832576666, "dur":517, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711255832577184, "dur":563, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711255832577748, "dur":412, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711255832578160, "dur":4572, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711255832582745, "dur":51471, "ph":"X", "name": "ComputeLeafInputSignature",  "args": { "detail":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/il2cpp.a" }}
+,{ "pid":12345, "tid":5, "ts":1711255832634234, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a" }}
+,{ "pid":12345, "tid":5, "ts":1711255832634374, "dur":276, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711255832634654, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Link_WebGL_wasm Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js (+wasm)" }}
+,{ "pid":12345, "tid":5, "ts":1711255832635320, "dur":58712, "ph":"X", "name": "7z",  "args": { "detail":"Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js.unmarked" }}
+,{ "pid":12345, "tid":5, "ts":1711255832694259, "dur":101710, "ph":"X", "name": "GzipMarker",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.framework.js.gz" }}
+,{ "pid":12345, "tid":5, "ts":1711255832796069, "dur":249, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-full-light.png" }}
+,{ "pid":12345, "tid":5, "ts":1711255832797034, "dur":3282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-full-light.png" }}
+,{ "pid":12345, "tid":5, "ts":1711255832800439, "dur":18666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-dark.png" }}
+,{ "pid":12345, "tid":5, "ts":1711255832819120, "dur":927635, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832569858, "dur":6721, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832576584, "dur":617, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832577202, "dur":315, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832577518, "dur":517, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832578035, "dur":4691, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832582831, "dur":1875, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832584707, "dur":2954, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832587733, "dur":1101, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__6.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832588842, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832587663, "dur":1261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9kpgzko8ew9o.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832588982, "dur":371, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__2.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832589363, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832588963, "dur":485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/54yzo8ghd41o.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832589493, "dur":838, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__17.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832590351, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832589475, "dur":960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vf4py4u208z6.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832590477, "dur":762, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppInvokerTable.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832591249, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832590462, "dur":865, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lzuy9zew74gr.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832591467, "dur":602, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__18.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832592078, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832591448, "dur":712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bwkof187vwig.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832592238, "dur":384, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__15.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832592631, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832592218, "dur":485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qmmtc3ta5dfg.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832592736, "dur":146, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1711255832592724, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jmqqwcjc639i.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832592989, "dur":462, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__1.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832593460, "dur":104, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832592971, "dur":593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1zaxl53nmd0j.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832593612, "dur":662, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppReversePInvokeWrapperTable.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832594293, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832593599, "dur":800, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6htdokx3sg7q.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832594451, "dur":959, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__6.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832595421, "dur":111, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832594431, "dur":1102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sdb345m16h0h.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832595720, "dur":484, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__33.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832596214, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832595698, "dur":596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h19ak7m9sgiv.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832596374, "dur":533, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCTypeValuesTable.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832596915, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832596353, "dur":639, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/72vyfpk0pv0o.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832597085, "dur":501, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__12.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832597597, "dur":106, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832597065, "dur":638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2opsihrdk42p.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832597775, "dur":759, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__14.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832598544, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832597757, "dur":878, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qsc8pcsktr57.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832598687, "dur":119, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityWebRequestModule_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1711255832598658, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/e0jk36210big.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832598878, "dur":736, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__2.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832599624, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832598866, "dur":857, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ju5k56sulak3.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832599791, "dur":800, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__14.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832600600, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832599772, "dur":915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pe2csndc1by0.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832600729, "dur":737, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__9.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832601474, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832600715, "dur":843, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1tgnhrg6cw1i.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832601598, "dur":192, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AudioModule.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832601799, "dur":102, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832601585, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wo5upwefgrj8.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832601999, "dur":939, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.HierarchyCoreModule.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1711255832602950, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832601980, "dur":1069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ahs7lbcnyh0w.o" }}
+,{ "pid":12345, "tid":6, "ts":1711255832603189, "dur":31612, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832634856, "dur":74, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"GzipMarker C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.wasm.gz" }}
+,{ "pid":12345, "tid":6, "ts":1711255832634937, "dur":161139, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711255832796086, "dur":87, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-light.png" }}
+,{ "pid":12345, "tid":6, "ts":1711255832796988, "dur":21807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-light.png" }}
+,{ "pid":12345, "tid":6, "ts":1711255832818817, "dur":927941, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832569977, "dur":6626, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832576609, "dur":618, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832577228, "dur":238, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832577467, "dur":255, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832577722, "dur":400, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832578123, "dur":4682, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832582899, "dur":1805, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832584705, "dur":2939, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832587669, "dur":308, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__1.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832587986, "dur":114, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832587645, "dur":455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/iml4krcwh82n.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832588152, "dur":343, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericMethodTable.c" }}
+,{ "pid":12345, "tid":7, "ts":1711255832588140, "dur":381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r63tuja0khi6.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832588609, "dur":684, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__15.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832589306, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832588589, "dur":817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9rglyf06ti77.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832589455, "dur":669, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__6.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832590140, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832589443, "dur":788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uqpu1s7c3hx0.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832590267, "dur":645, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__41.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832590920, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832590256, "dur":748, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2fmps5huovor.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832591097, "dur":1069, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__18.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832592177, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832591078, "dur":1179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xpdms123esjy.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832592307, "dur":1032, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.Physics2DModule.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832593347, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832592294, "dur":1135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/byq0s1ih937r.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832593467, "dur":797, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AnimationModule.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832594274, "dur":110, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832593454, "dur":930, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mmbot1mhrh9l.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832594431, "dur":95, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericInstDefinitions.c" }}
+,{ "pid":12345, "tid":7, "ts":1711255832594416, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/out61n6h96nk.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832594628, "dur":674, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputLegacyModule.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832595311, "dur":103, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832594606, "dur":808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9sgmo9bjzy6y.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832595415, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832595528, "dur":836, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__47.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832596375, "dur":112, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832595507, "dur":980, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wel3s81h912n.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832596529, "dur":816, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\__Generated.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832597354, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832596515, "dur":937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cu9ufgh4xuov.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832597522, "dur":827, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__40.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832598358, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832597504, "dur":952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h0i1cw3wl7c8.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832598507, "dur":185, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Assembly-CSharp__1.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832598700, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832598488, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sob4x9yjkefg.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832598818, "dur":678, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__1.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832599504, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832598806, "dur":785, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ffdytoldrr8w.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832599709, "dur":857, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__38.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832600577, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832599690, "dur":967, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/aso8zuqy9kfc.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832600713, "dur":473, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__12.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832601193, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832600697, "dur":569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xp22j4qlc49f.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832601381, "dur":110, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericMethodDefinitions.c" }}
+,{ "pid":12345, "tid":7, "ts":1711255832601363, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xt0nfu4u54cr.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832601636, "dur":838, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__20.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832602483, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832601601, "dur":964, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/n316qfmyfj9l.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832602777, "dur":641, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__39.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1711255832603427, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832602755, "dur":744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v7rwf44vc9qv.o" }}
+,{ "pid":12345, "tid":7, "ts":1711255832603543, "dur":192518, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711255832796091, "dur":294, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-title-footer.png" }}
+,{ "pid":12345, "tid":7, "ts":1711255832818659, "dur":50, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-title-footer.png" }}
+,{ "pid":12345, "tid":7, "ts":1711255832797099, "dur":21648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/unity-logo-title-footer.png" }}
+,{ "pid":12345, "tid":7, "ts":1711255832818773, "dur":927972, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832570082, "dur":6531, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832576618, "dur":560, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832577179, "dur":327, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832577507, "dur":271, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832577779, "dur":310, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832578090, "dur":4701, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832582847, "dur":1844, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832584746, "dur":2900, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832587676, "dur":222, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System_CodeGen.c" }}
+,{ "pid":12345, "tid":8, "ts":1711255832587650, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/s4mhmqsu636c.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832588016, "dur":1030, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__50.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832589065, "dur":144, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832587970, "dur":1239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o2ikljtdocc3.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832589290, "dur":467, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__31.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832589774, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832589266, "dur":593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vdm6jisdmqpw.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832589908, "dur":153, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.GridModule_CodeGen.c" }}
+,{ "pid":12345, "tid":8, "ts":1711255832589889, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uioxof2zj3cn.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832590135, "dur":859, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__56.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832591003, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832590121, "dur":972, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i1hylmd18iqz.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832591307, "dur":942, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__2.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832592258, "dur":89, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832591281, "dur":1066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h2uz3c1h2ttn.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832592401, "dur":639, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__2.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832593050, "dur":126, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832592389, "dur":788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0ugm9xzaufkg.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832593213, "dur":803, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule__1.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832594025, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832593200, "dur":908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ax1opvxz0duu.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832594159, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/39ra8jhbe5ts.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832594285, "dur":485, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateFieldValues1.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832594778, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832594266, "dur":600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p3b5czaktrbj.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832594923, "dur":357, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericAdjustorThunkTable.c" }}
+,{ "pid":12345, "tid":8, "ts":1711255832594906, "dur":402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yuot3f9h1lql.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832595400, "dur":983, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PropertiesModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832596394, "dur":109, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832595375, "dur":1128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/z3s85i6ko1hx.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832596547, "dur":847, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__2.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832597404, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832596533, "dur":963, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4w4ml8aycj3q.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832597537, "dur":1263, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__5.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832598809, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832597520, "dur":1382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7x7epw833toy.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832599008, "dur":792, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__59.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832599808, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832598986, "dur":906, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p48q1kmuixuh.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832599933, "dur":172, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputLegacyModule_CodeGen.c" }}
+,{ "pid":12345, "tid":8, "ts":1711255832599921, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/x4cgtr4s8c3b.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832600213, "dur":537, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SharedInternalsModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832600759, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832600192, "dur":653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/je5j6s4ka5mu.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832600922, "dur":667, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TilemapModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832601597, "dur":107, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832600871, "dur":834, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wavnwlgipyax.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832601795, "dur":593, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__32.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832602397, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832601774, "dur":700, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gtpuzr6ape1f.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832602601, "dur":727, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__26.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1711255832603338, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832602580, "dur":832, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h20kri6l0pni.o" }}
+,{ "pid":12345, "tid":8, "ts":1711255832603464, "dur":192620, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711255832796089, "dur":160, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/favicon.ico" }}
+,{ "pid":12345, "tid":8, "ts":1711255832796993, "dur":33227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/favicon.ico" }}
+,{ "pid":12345, "tid":8, "ts":1711255832830244, "dur":916496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832570136, "dur":6493, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832576637, "dur":553, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832577190, "dur":335, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832577526, "dur":606, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832578132, "dur":4618, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832582828, "dur":1865, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832584694, "dur":2965, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832587869, "dur":150, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI_CodeGen.c" }}
+,{ "pid":12345, "tid":9, "ts":1711255832587660, "dur":401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/48n6d1c8ywm4.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832588103, "dur":130, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PhysicsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":9, "ts":1711255832588090, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/t6urg3aompu8.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832588302, "dur":313, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Core_CodeGen.c" }}
+,{ "pid":12345, "tid":9, "ts":1711255832588291, "dur":357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fydwd74isvta.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832588741, "dur":663, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__12.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832589413, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832588719, "dur":789, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jjv0w4khvzay.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832589544, "dur":819, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__11.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832590380, "dur":100, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832589530, "dur":951, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/whimzoan81s0.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832590580, "dur":837, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppInteropDataTable.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832591425, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832590561, "dur":938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ofriw82818t3.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832591541, "dur":550, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__8.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832592100, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832591528, "dur":659, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0lw6wb078tk3.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832592234, "dur":913, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__10.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832593156, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832592216, "dur":1030, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ih1ypy2sfbka.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832593288, "dur":897, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832594194, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832593274, "dur":998, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bzji7z4sffto.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832594272, "dur":211, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832594538, "dur":673, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__14.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832595220, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832594503, "dur":802, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3k9efnjgigxi.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832595378, "dur":973, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__4.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832596360, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832595346, "dur":1120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mi4q9mu605cf.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832596466, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832596569, "dur":323, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.HierarchyCoreModule_CodeGen.c" }}
+,{ "pid":12345, "tid":9, "ts":1711255832596554, "dur":366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mzvpdstbstzx.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832596966, "dur":1027, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__1.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832598004, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832596950, "dur":1132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/guajjxkjyrc8.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832598209, "dur":636, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__11.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832598854, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832598191, "dur":745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jplfaejrjd1p.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832598974, "dur":432, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832599415, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832598957, "dur":549, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cowab7cpfqc7.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832599549, "dur":512, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__62.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832600072, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832599532, "dur":623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hs67tvdqx73w.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832600194, "dur":656, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__13.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832600859, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832600183, "dur":767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i55qzd5ifslz.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832601032, "dur":581, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Assembly-CSharp.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832601626, "dur":104, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832601012, "dur":718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/n35fzyrsq8vj.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832601772, "dur":919, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__12.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832602700, "dur":95, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832601760, "dur":1035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/44o3pnxom1c9.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832602896, "dur":609, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__22.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1711255832603515, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832602876, "dur":720, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9qpbr4gum91k.o" }}
+,{ "pid":12345, "tid":9, "ts":1711255832603618, "dur":192504, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711255832796130, "dur":226, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/webmemd-icon.png" }}
+,{ "pid":12345, "tid":9, "ts":1711255832797074, "dur":21715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/webmemd-icon.png" }}
+,{ "pid":12345, "tid":9, "ts":1711255832818814, "dur":927922, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832570202, "dur":6455, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832576660, "dur":480, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832577140, "dur":306, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832577447, "dur":273, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832577720, "dur":377, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832578097, "dur":4681, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832582878, "dur":945, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WebGL/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1711255832583870, "dur":818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832584690, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ClassRegistrationGenerator E:/My Games/Rapha in Roguelike School/Library/Bee/artifacts/WebGL/il2cppOutput/UnityClassRegistration.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832584844, "dur":2810, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832587702, "dur":1863, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppUnresolvedIndirectCallStubs.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832589587, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832587661, "dur":2006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1d9hnyzpkgla.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832589708, "dur":682, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Xml.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832590399, "dur":101, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832589696, "dur":804, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9poghgw0bg5f.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832590634, "dur":507, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__8.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832591151, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832590613, "dur":629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/x0n603ah52s3.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832591351, "dur":1344, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__27.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832592704, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832591333, "dur":1453, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2h486rkj3dz1.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832592831, "dur":901, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__3.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832593739, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832592814, "dur":998, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4988kg7royvm.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832593857, "dur":486, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__5.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832594353, "dur":101, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832593844, "dur":611, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qxwdl51nvool.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832594499, "dur":445, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832594951, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832594481, "dur":545, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5jy989du2etb.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832595085, "dur":336, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832595430, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832595064, "dur":466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sn85ay1jp5qn.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832595644, "dur":690, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__4.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832596345, "dur":114, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832595625, "dur":834, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/821p13chwr41.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832596500, "dur":640, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__3.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832597149, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832596482, "dur":744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5x9fjc6w6tqu.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832597266, "dur":208, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AnimationModule_CodeGen.c" }}
+,{ "pid":12345, "tid":10, "ts":1711255832597253, "dur":249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6q9uitc07rk0.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832597604, "dur":364, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PhysicsModule.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832597975, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832597585, "dur":465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lzw5tx35cqv3.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832598087, "dur":479, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Core.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832598575, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832598076, "dur":586, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jc4lljogv7ad.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832598773, "dur":209, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":10, "ts":1711255832598754, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dyg8rlreg420.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832599070, "dur":300, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Assembly-CSharp_CodeGen.c" }}
+,{ "pid":12345, "tid":10, "ts":1711255832599053, "dur":357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7nqg65l4aqpj.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832599476, "dur":68, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericMethodPointerTable.c" }}
+,{ "pid":12345, "tid":10, "ts":1711255832599464, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yuds4wd2un53.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832599645, "dur":815, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__13.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832600469, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832599626, "dur":924, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/n4sgyq5anse9.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832600600, "dur":774, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIModule.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832601384, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832600583, "dur":887, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/c5l2ryl788kk.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832601471, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832601646, "dur":982, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCodeRegistration.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832602637, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832601628, "dur":1106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fx97xmk4ciwv.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832602777, "dur":765, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.GridModule.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1711255832603548, "dur":67, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832602763, "dur":853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mfrnvf712faa.o" }}
+,{ "pid":12345, "tid":10, "ts":1711255832603634, "dur":192445, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711255832796090, "dur":108, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/MemoryProfiler.png" }}
+,{ "pid":12345, "tid":10, "ts":1711255832796961, "dur":3618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/MemoryProfiler.png" }}
+,{ "pid":12345, "tid":10, "ts":1711255832800603, "dur":946129, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832570276, "dur":6393, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832576673, "dur":469, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832577143, "dur":322, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832577465, "dur":269, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832577734, "dur":399, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832578134, "dur":4605, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832582843, "dur":1856, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832584700, "dur":2952, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832587706, "dur":1559, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCFieldValuesTable.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832589272, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832587654, "dur":1708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bhw0eejtfyme.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832589416, "dur":679, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__1.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832590112, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832589386, "dur":819, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3ok60suz8gmb.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832590323, "dur":569, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832590901, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832590296, "dur":692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/k8e7sbre2v13.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832591061, "dur":780, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateTypeValues.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832591848, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832591041, "dur":893, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/02yqko9i69hg.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832591979, "dur":458, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__16.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832592443, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832591963, "dur":556, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cg0cq1mg0hy6.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832592588, "dur":463, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__18.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832593061, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832592570, "dur":578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/y3nhqqhc77q5.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832593226, "dur":1596, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__15.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832594832, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832593203, "dur":1712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/b8fw5l6hwfhr.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832595071, "dur":1034, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__24.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832596115, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832595052, "dur":1150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vedgrtbqtzuj.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832596319, "dur":617, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__60.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832596946, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832596300, "dur":733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bxzvyclvrvgu.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832597074, "dur":154, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TilemapModule_CodeGen.c" }}
+,{ "pid":12345, "tid":11, "ts":1711255832597059, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0eqm4auezmgn.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832597376, "dur":855, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832598238, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832597355, "dur":966, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yv1feia299f3.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832598416, "dur":205, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericClassTable.c" }}
+,{ "pid":12345, "tid":11, "ts":1711255832598398, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ijp2aaa8l26n.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832598722, "dur":640, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__4.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832599370, "dur":104, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832598707, "dur":768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nx1bzvtc85gq.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832599509, "dur":732, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__44.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832600249, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832599498, "dur":837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pbuadatozny5.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832600379, "dur":869, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__2.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832601256, "dur":71, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832600367, "dur":960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4ppzywpy2r9e.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832601438, "dur":251, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__9.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832601699, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832601419, "dur":365, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gog9ejx1oae7.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832601819, "dur":1048, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__16.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1711255832602875, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832601807, "dur":1165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p8wjfcecp6ph.o" }}
+,{ "pid":12345, "tid":11, "ts":1711255832603262, "dur":66, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"GzipMarker C:/Users/rapha/OneDrive/rea de Trabalho/index/Build/index.data.gz" }}
+,{ "pid":12345, "tid":11, "ts":1711255832603352, "dur":192712, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711255832796069, "dur":76, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-full-dark.png" }}
+,{ "pid":12345, "tid":11, "ts":1711255832796689, "dur":3811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-full-dark.png" }}
+,{ "pid":12345, "tid":11, "ts":1711255832800516, "dur":946212, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832570338, "dur":6348, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832576687, "dur":750, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832577438, "dur":211, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832577650, "dur":409, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832578059, "dur":4684, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832582802, "dur":66, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/build.framework.js_mumr.info" }}
+,{ "pid":12345, "tid":12, "ts":1711255832582870, "dur":1838, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832584709, "dur":2948, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832587710, "dur":1204, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__18.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832588924, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832587658, "dur":1348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gv7dee9z3wbq.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832589049, "dur":1010, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__6.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832590076, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832589035, "dur":1122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bd010eglyc04.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832590429, "dur":489, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__30.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832590927, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832590412, "dur":596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ayii48dgj2dd.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832591052, "dur":760, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__25.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832591822, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832591040, "dur":870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gug462pnwn62.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832591960, "dur":1006, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextRenderingModule.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832592974, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832591946, "dur":1124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lhytijlq7f6k.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832593109, "dur":1135, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__19.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832594253, "dur":130, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832593099, "dur":1284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wbocvan5ykuz.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832594437, "dur":914, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__17.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832595359, "dur":114, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832594415, "dur":1059, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wht57lm5aq2i.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832595567, "dur":735, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__5.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832596310, "dur":95, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832595545, "dur":860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o5lsjbabc8x5.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832596472, "dur":1101, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__42.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832597582, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832596454, "dur":1227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3n65clyssx56.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832597727, "dur":637, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__7.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832598373, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832597715, "dur":749, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tlvjpl3zakhx.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832598501, "dur":863, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__46.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832599373, "dur":112, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832598489, "dur":997, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v60m8slj5zl8.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832599550, "dur":640, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__63.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832600199, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832599529, "dur":766, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i0qoebuo19kc.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832600498, "dur":260, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreFontEngineModule_CodeGen.c" }}
+,{ "pid":12345, "tid":12, "ts":1711255832600478, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9w68hu55agp8.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832600828, "dur":943, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__10.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832601781, "dur":109, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832600811, "dur":1079, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/g11niswhdear.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832601946, "dur":716, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__3.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832602672, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832601933, "dur":825, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6cjg9nxfh6i4.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832602805, "dur":680, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"E:\\My Games\\Rapha in Roguelike School\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__11.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1711255832603496, "dur":110, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832602790, "dur":816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1g5by1afg2la.o" }}
+,{ "pid":12345, "tid":12, "ts":1711255832603627, "dur":192446, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711255832796084, "dur":184, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-empty-dark.png" }}
+,{ "pid":12345, "tid":12, "ts":1711255832796980, "dur":3423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-empty-dark.png" }}
+,{ "pid":12345, "tid":12, "ts":1711255832800461, "dur":1186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rapha/OneDrive/rea de Trabalho/index/TemplateData/progress-bar-empty-light.png" }}
+,{ "pid":12345, "tid":12, "ts":1711255832801666, "dur":945060, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711255833754285, "dur":1572, "ph":"X", "name": "ProfilerWriteOutput" }
+,

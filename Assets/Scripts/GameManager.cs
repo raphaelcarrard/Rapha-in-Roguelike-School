@@ -1,209 +1,192 @@
-﻿using UnityEngine;
-using UnityEngine.SceneManagement;
+﻿using System;
 using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Serialization;
+using System.Collections.Generic;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
-namespace Completed
+public class GameManager : MonoBehaviour
 {
-	using System.Collections.Generic;		//Allows us to use Lists. 
-	using UnityEngine.UI;					//Allows us to use UI.
-	
-	public class GameManager : MonoBehaviour
-	{
-		public float levelStartDelay = 2f;						//Time to wait before starting level, in seconds.
-		public float turnDelay = 0.1f;							//Delay between each Player turn.
-		public int playerFoodPoints = 100;						//Starting value for Player food points.
-		public static GameManager instance = null;				//Static instance of GameManager which allows it to be accessed by any other script.
-		[HideInInspector] public bool playersTurn = true;		//Boolean to check if it's players turn, hidden in inspector but public.
-		
-		
-		private Text levelText;									//Text to display current level number.
-		private GameObject levelImage;							//Image to block out level as levels are being set up, background for levelText.
-		private BoardManager boardScript;						//Store a reference to our BoardManager which will set up the level.
-		private int level = 1;									//Current level number, expressed in game as "Day 1".
-		private List<Enemy> enemies;							//List of all Enemy units, used to issue them move commands.
-		private bool enemiesMoving;								//Boolean to check if enemies are moving.
-		private bool doingSetup = true;							//Boolean to check if we're setting up board, prevent Player from moving during setup.
-		
-		/*public io.newgrounds.core ngio_core;
+    public float levelStartDelay = 2f;
+    public float turnDelay = .1f;
+    public static GameManager instance = null;
+    private BoardManager boardScript;
+    public int playerFoodPoints = 100;
+    [HideInInspector] public bool playerTurn = true;
 
-		public void onMedalUnlocked(io.newgrounds.results.Medal.unlock result) {
-			io.newgrounds.objects.medal medal = result.medal;
-			Debug.Log( "Medal Unlocked: " + medal.name + " (" + medal.value + " points)" );
-		}
+    private Text levelText;
+    public GameObject levelImage;
+    public int level = 1;
+    private List<Enemy> enemies;
+    private bool enemiesMoving;
+    private bool doingSetup;
 
-		public void unlockMedal(int medal_id) {
-			io.newgrounds.components.Medal.unlock medal_unlock = new io.newgrounds.components.Medal.unlock();
-			medal_unlock.id = medal_id;
-			medal_unlock.callWith(ngio_core, onMedalUnlocked);
-		}
+    public GameObject TutorialInfo;
+    public bool medal1, medal2, medal3, medal4;
+    public bool medal5, medal6, medal7, medal8;
+    public bool medal9, medal10, medal11, medal12;
+    public bool medal13, medal14, medal15, medal16;
+    public bool medal17, medal18, medal19, medal20;
+    
+    void Awake()
+    {
+        if (instance == null)
+            instance = this;
+        else if (instance != this)
+            Destroy(gameObject);
+        
+        DontDestroyOnLoad(gameObject);
+        enemies = new List<Enemy>();
+        boardScript = GetComponent<BoardManager>();
+        InitGame();
+        TutorialInfo = GameObject.Find("Background");
+    }
 
-		public void SubmitScore(int score_id, int level){
-			io.newgrounds.components.ScoreBoard.postScore submit_score = new io.newgrounds.components.ScoreBoard.postScore();
-			submit_score.id = score_id;
-			submit_score.value = level;
-			submit_score.callWith(ngio_core);
-			Debug.Log("Score added!");
-		}*/
+    private void OnLevelWasLoaded(int index)
+    {
+        level++;
+        InitGame();
+    }
 
-		//Awake is always called before any Start functions
-		void Awake()
-		{
-            //Check if instance already exists
-            if (instance == null)
+    void InitGame()
+    {
+        doingSetup = true;
 
-                //if not, set instance to this
-                instance = this;
+        levelImage = GameObject.Find("LevelImage");
+        levelText = GameObject.Find("LevelText").GetComponent<Text>();
+        levelText.text = "Day " + level;  
+        levelImage.SetActive(true);
+        Invoke("HideLevelImage",levelStartDelay);
+        enemies.Clear();
+        boardScript.SetupScene(level);
+    }
 
-            //If instance already exists and it's not this:
-            else if (instance != this)
+    public void HideLevelImage()
+    {
+        levelImage.SetActive(false);
+        doingSetup = false;
+    }
+    
+    public void GameOver()
+    {
+        levelText.text = "You survived for " + level + " days.";
+        levelImage.SetActive(true);
+        enabled = false;
+        NGHelper.instance.NGSubmitScore(12384, level);
+    }
+    
+    // Update is called once per frame
+    void Update()
+    {
+        if (playerTurn || enemiesMoving || doingSetup)
+            return;
 
-                //Then destroy this. This enforces our singleton pattern, meaning there can only ever be one instance of a GameManager.
-                Destroy(gameObject);	
-			
-			//Sets this to not be destroyed when reloading scene
-			DontDestroyOnLoad(gameObject);
-			
-			//Assign enemies to a new List of Enemy objects.
-			enemies = new List<Enemy>();
-			
-			//Get a component reference to the attached BoardManager script
-			boardScript = GetComponent<BoardManager>();
-			
-			//Call the InitGame function to initialize the first level 
-			InitGame();
-		}
+        StartCoroutine(MoveEnemies());
+        if(level >= 1 && medal1 == false){
+            NGHelper.instance.unlockMedal(77941);
+            medal1 = true;
+        }
+        if(level >= 2 && medal2 == false){
+            NGHelper.instance.unlockMedal(77942);
+            medal2 = true;
+        }
+        if(level >= 3 && medal3 == false){
+            NGHelper.instance.unlockMedal(77943);
+            medal3 = true;
+        }
+        if(level >= 4 && medal4 == false){
+            NGHelper.instance.unlockMedal(77944);
+            medal4 = true;
+        }
+        if(level >= 5 && medal5 == false){
+            NGHelper.instance.unlockMedal(71993);
+            medal5 = true;
+        }
+        if(level >= 6 && medal6 == false){
+            NGHelper.instance.unlockMedal(77945);
+            medal6 = true;
+        }
+        if(level >= 7 && medal7 == false){
+            NGHelper.instance.unlockMedal(77946);
+            medal7 = true;
+        }
+        if(level >= 8 && medal8 == false){
+            NGHelper.instance.unlockMedal(77947);
+            medal8 = true;
+        }
+        if(level >= 9 && medal9 == false){
+            NGHelper.instance.unlockMedal(77948);
+            medal9 = true;
+        }
+        if(level >= 10 && medal10 == false){
+            NGHelper.instance.unlockMedal(71994);
+            medal10 = true;
+        }
+        if(level >= 11 && medal11 == false){
+            NGHelper.instance.unlockMedal(77949);
+            medal11 = true;
+        }
+        if(level >= 12 && medal12 == false){
+            NGHelper.instance.unlockMedal(77950);
+            medal12 = true;
+        }
+        if(level >= 13 && medal13 == false){
+            NGHelper.instance.unlockMedal(77951);
+            medal13 = true;
+        }
+        if(level >= 14 && medal14 == false){
+            NGHelper.instance.unlockMedal(77952);
+            medal14 = true;
+        }
+        if(level >= 15 && medal15 == false){
+            NGHelper.instance.unlockMedal(71995);
+            medal15 = true;
+        }
+        if(level >= 16 && medal16 == false){
+            NGHelper.instance.unlockMedal(77953);
+            medal16 = true;
+        }
+        if(level >= 17 && medal17 == false){
+            NGHelper.instance.unlockMedal(71996);
+            medal17 = true;
+        }
+        if(level >= 18 && medal18 == false){
+            NGHelper.instance.unlockMedal(77954);
+            medal18 = true;
+        }
+        if(level >= 19 && medal19 == false){
+            NGHelper.instance.unlockMedal(77955);
+            medal19 = true;
+        }
+        if(level >= 20 && medal20 == false){
+            NGHelper.instance.unlockMedal(77956);
+            medal20 = true;
+        }
+    }
 
-        //this is called only once, and the paramter tell it to be called only after the scene was loaded
-        //(otherwise, our Scene Load callback would be called the very first load, and we don't want that)
-        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
-        static public void CallbackInitialization()
+    public void AddEnemyToList(Enemy script)
+    {
+        enemies.Add(script);
+    }
+    
+    IEnumerator MoveEnemies()
+    {
+        enemiesMoving = true;
+        yield return new WaitForSeconds(turnDelay);
+        if (enemies.Count == 0)
         {
-            //register the callback to be called everytime the scene is loaded
-            SceneManager.sceneLoaded += OnSceneLoaded;
+            yield return new WaitForSeconds(turnDelay);
         }
 
-        //This is called each time a scene is loaded.
-        static private void OnSceneLoaded(Scene arg0, LoadSceneMode arg1)
+        for (int i = 0; i < enemies.Count; i++)
         {
-            instance.level++;
-            instance.InitGame();
+            enemies[i].MoveEnemy();
+            yield return new WaitForSeconds(enemies[i].moveTime);
         }
 
-		
-		//Initializes the game for each level.
-		void InitGame()
-		{
-			//While doingSetup is true the player can't move, prevent player from moving while title card is up.
-			doingSetup = true;
-			
-			//Get a reference to our image LevelImage by finding it by name.
-			levelImage = GameObject.Find("LevelImage");
-			
-			//Get a reference to our text LevelText's text component by finding it by name and calling GetComponent.
-			levelText = GameObject.Find("LevelText").GetComponent<Text>();
-			
-			//Set the text of levelText to the string "Day" and append the current level number.
-			levelText.text = "Day " + level;
-			
-			//Set levelImage to active blocking player's view of the game board during setup.
-			levelImage.SetActive(true);
-			
-			//Call the HideLevelImage function with a delay in seconds of levelStartDelay.
-			Invoke("HideLevelImage", levelStartDelay);
-			
-			//Clear any Enemy objects in our List to prepare for next level.
-			enemies.Clear();
-			
-			//Call the SetupScene function of the BoardManager script, pass it current level number.
-			boardScript.SetupScene(level);
-
-			//ngio_core = GameObject.Find("Newgrounds.io Object").GetComponent<io.newgrounds.core>();
-			
-		}
-		
-		
-		//Hides black image used between levels
-		void HideLevelImage()
-		{
-			//Disable the levelImage gameObject.
-			levelImage.SetActive(false);
-			
-			//Set doingSetup to false allowing player to move again.
-			doingSetup = false;
-		}
-		
-		//Update is called every frame.
-		void Update()
-		{
-			//Check that playersTurn or enemiesMoving or doingSetup are not currently true.
-			if(playersTurn || enemiesMoving || doingSetup)
-				
-				//If any of these are true, return and do not start MoveEnemies.
-				return;
-			
-			//Start moving enemies.
-			StartCoroutine (MoveEnemies ());
-			/*if(level == 5){
-				unlockMedal(71993);
-			}
-			if(level == 10){
-				unlockMedal(71994);
-			}*/
-		}
-		
-		//Call this to add the passed in Enemy to the List of Enemy objects.
-		public void AddEnemyToList(Enemy script)
-		{
-			//Add Enemy to List enemies.
-			enemies.Add(script);
-		}
-		
-		
-		//GameOver is called when the player reaches 0 food points
-		public void GameOver()
-		{
-			//Set levelText to display number of levels passed and game over message
-			levelText.text = "You survived for " + level + " days.";
-			
-			//Enable black background image gameObject.
-			levelImage.SetActive(true);
-			
-			//Disable this GameManager.
-			enabled = false;
-			//SubmitScore(12384, level);
-		}
-		
-		//Coroutine to move enemies in sequence.
-		IEnumerator MoveEnemies()
-		{
-			//While enemiesMoving is true player is unable to move.
-			enemiesMoving = true;
-			
-			//Wait for turnDelay seconds, defaults to .1 (100 ms).
-			yield return new WaitForSeconds(turnDelay);
-			
-			//If there are no enemies spawned (IE in first level):
-			if (enemies.Count == 0) 
-			{
-				//Wait for turnDelay seconds between moves, replaces delay caused by enemies moving when there are none.
-				yield return new WaitForSeconds(turnDelay);
-			}
-			
-			//Loop through List of Enemy objects.
-			for (int i = 0; i < enemies.Count; i++)
-			{
-				//Call the MoveEnemy function of Enemy at index i in the enemies List.
-				enemies[i].MoveEnemy ();
-				
-				//Wait for Enemy's moveTime before moving next Enemy, 
-				yield return new WaitForSeconds(enemies[i].moveTime);
-			}
-			//Once Enemies are done moving, set playersTurn to true so player can move.
-			playersTurn = true;
-			
-			//Enemies are done moving, set enemiesMoving to false.
-			enemiesMoving = false;
-		}
-	}
+        playerTurn = true;
+        enemiesMoving = false;
+    }
 }
-

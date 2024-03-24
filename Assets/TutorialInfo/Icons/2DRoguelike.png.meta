@@ -82,3 +82,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 
+  assetPath: Assets/TutorialInfo/Icons/2DRoguelike.png
+  uploadId: 0

@@ -18,3 +18,10 @@ TrueTypeFontImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 
+  assetPath: Assets/TutorialInfo/Fonts/Roboto-Thin.ttf
+  uploadId: 0

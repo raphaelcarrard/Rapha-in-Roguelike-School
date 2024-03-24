@@ -92,3 +92,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 
+  assetPath: Assets/TutorialInfo/Sprites/unity-logo.png
+  uploadId: 0
