@@ -1,0 +1,19 @@
+# ninja log v5
+8	33385	7873031851086333	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d1abbc6ac2c64c50
+133	33318	7873031850163408	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5dedef72ed6f432e
+142	33373	7873031850966060	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7e5ef581511c045
+14	33327	7873031850163408	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	87a020f19464a29b
+45	33330	7873031850158079	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	226c0e0d66cd6ae4
+21	33331	7873031850158079	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4e173945516041d0
+0	33661	7873031853866056	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d1abfdbdccab63a7
+95	33696	7873031854181231	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	638763610f62771a
+33696	34167	7873031858653680	E:/My Games/Rapha in Roguelike School/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/65q6b525/obj/arm64-v8a/libgame.so	49d9f1767db223cc
+2622	43831	7873890360979740	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5dedef72ed6f432e
+2631	43846	7873890360979740	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7e5ef581511c045
+2613	43848	7873890360948091	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4e173945516041d0
+1344	43850	7873890360948091	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	226c0e0d66cd6ae4
+1356	43851	7873890360994963	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d1abfdbdccab63a7
+1131	43853	7873890360979740	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	87a020f19464a29b
+1362	43855	7873890360994963	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	638763610f62771a
+1350	43857	7873890360979740	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d1abbc6ac2c64c50
+43857	49720	7873890426429891	E:/My Games/Rapha in Roguelike School/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/65q6b525/obj/arm64-v8a/libgame.so	49d9f1767db223cc

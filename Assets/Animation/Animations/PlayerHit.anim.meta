@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bb6a8b9e76955449ea0a724eb706705d
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 
+  assetPath: Assets/Animation/Animations/PlayerHit.anim
+  uploadId: 0
